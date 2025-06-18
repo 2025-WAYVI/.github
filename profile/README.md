@@ -34,7 +34,7 @@
 ## ⚙️ How to Run
 
 ### ✅ Prerequisites
-- Xcode 16.0 or higher (for building the Apple Watch app)
+- Xcode 16.0 or higher (for Apple Watch app)
 - Java 17 or higher (for Spring Boot server)
 - MySQL 8.0 or higher
 - Python 3.8 or higher (for AI server)
