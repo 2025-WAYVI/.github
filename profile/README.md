@@ -28,7 +28,7 @@
 | ![@VegetableKim](https://github.com/VegetableKim.png?size=140) | ![@sunhanmoo](https://github.com/sunhanmoo.png?size=140) | ![@forever0801](https://github.com/forever0801.png?size=140) | ![@munjji](https://github.com/munjji.png?size=140) |
 |:---:|:---:|:---:|:---:|
 | [Chaerin Kim](https://github.com/VegetableKim) | [Hoeun Seong](https://github.com/sunhanmoo) | [Sujin Lee](https://github.com/forever0801) | [Jihee Lee](https://github.com/munjji) |
-| Server | Client | AI | Server |
+| Server | Client | AI | Client |
 <br>
 
 ## ⚙️ How to Run
