@@ -47,22 +47,26 @@ git clone https://github.com/2025-WAYVI/CLIENT_WAYVI.git
 ### 2. Run the Spring Boot server
 <b>Run in development mode</b>
 ```bash
+cd SERVER_WAYVI
 cd spring-server
 ./gradlew bootRun
 ```
 <b>Build and run in production</b>
 ```bash
+cd SERVER_WAYVI
 cd spring-server
 ./gradlew build
 java -jar build/libs/Azaping-0.0.1-SNAPSHOT.jar
 ```
 <b>Run on Windows</b>
 ```bash
+cd SERVER_WAYVI
 cd spring-server
 gradlew.bat bootRun
 ```
 ### 3. Run the AI server
 ```bash
+cd SERVER_WAYVI
 cd ai-server
 pip install -r requirements.txt  # only if not installed
 python app.py
