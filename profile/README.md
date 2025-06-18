@@ -31,7 +31,7 @@
 | Server | Client | AI | Server |
 <br>
 
-## ▶️ How to Run
+## ⚙️ How to Run
 
 ### ✅ Prerequisites
 - Xcode 16.0 or higher (for building the Apple Watch app)
