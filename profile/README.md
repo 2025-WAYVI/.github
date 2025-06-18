@@ -1,6 +1,6 @@
 ### 2025 Capstone Design 2, Dongguk University
 # 🦮 WayVi
-> WayVI is a smartwatch application that provides real-time navigation for the visually impaired, utilizing the wearability and health sensors of smartwatches.
+> WayVi is a smartwatch application that provides real-time navigation for the visually impaired, utilizing the wearability and health sensors of smartwatches.
 
 <br>
 
