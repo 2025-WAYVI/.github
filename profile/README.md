@@ -81,4 +81,7 @@ open CLIENT_WAYVI.xcworkspace
 <img src="https://github.com/user-attachments/assets/9021634b-6fc6-4863-aca0-e61f8c515661" width="80%" />  
 <img src="https://github.com/user-attachments/assets/96724e38-ccc5-4c95-97e2-0cb5d86b0958" width="80%" />  
 <img src="https://github.com/user-attachments/assets/7033c32b-4007-4a44-9776-d468b8ed66c7" width="80%" />
+<br>
 
+## 🎬 Demo Video
+[Watch WayVi Full Demo on YouTube](https://www.youtube.com/watch?v=C5D-bR7A18Q)
